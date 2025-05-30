@@ -37,5 +37,5 @@ Kindly refer to the `data analysis` folder and download the existing Jupyter Not
 Kindly download the latest version of Microsoft Power BI. After installing it, download the dashboard existing in the `dashboard` folder in this repository. After downlading the software and the dashboard, kindly open the dashboard in the app and all the visuals should be seen there.
 
 # License
-For licensing check the [LICNESE](LICENSE.md)
+For licensing check the [LICENSE](LICENSE.md)
   
